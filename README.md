@@ -12,7 +12,7 @@
     </div>
   </p>
   
-    <br/>
+  
    <p>
    <div align="center">
        <b>🌠 # Main Skill & Language 🌠</b>
@@ -26,7 +26,7 @@
         </a>
       </p>
 
-    <br/>
+    
   <p>
     <div align="center">
         <b>🚀 # Cloud & Deploy 🚀</b>

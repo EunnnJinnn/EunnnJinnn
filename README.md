@@ -13,17 +13,20 @@
   </p>
   
   
-   <p>
+  <p>
    <div align="center">
        <b>🌠 # Main Skill & Language 🌠</b>
        <br/>
        <br/>
        <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,scss" />
-          <br/>
-          <img src="https://skillicons.dev/icons?i=github,figma,ps,ai" />
-        </a>
+         <img src="https://skillicons.dev/icons?i=html,css,scss,ps,ai" />
+         <br/>
+        <a href="https://github.com/EunnnJinnn">
+          <img src="https://skillicons.dev/icons?i=github" />
+          </a>
+        <a href="https://www.figma.com/@dmswls">
+          <img src="https://skillicons.dev/icons?i=figma" />
+          </a>
       </p>
 
     

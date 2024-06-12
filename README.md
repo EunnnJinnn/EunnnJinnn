@@ -12,8 +12,7 @@
     </div>
   </p>
   
-  
-    <br/>
+
   <p>
    <div align="center">
        <b>💻 # Main Skill & Language 💻</b>

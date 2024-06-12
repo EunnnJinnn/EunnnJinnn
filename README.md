@@ -1,19 +1,20 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20EunnnJinnn%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=We%20Can%20Do%20It!&descAlignY=51&descAlign=62"/>
-</p>
 
-<p>
+  <p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EunnnJinnn%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=We%20Can%20Do%20It!&descAlignY=51&descAlign=62"/>
+  </p>
+  
+  <p>
     <div align="center">
-    <b>📅 # Today's Visit 📅</b>
+    <b>🧙🏻‍♀️ # Today's Visit 🦹🏻‍♀️</b>
     <br/>
     <br/>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDivjason%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunnnJinnn&count_bg=%23ACDAF0&title_bg=%23FFC1F8&icon=&icon_color=%23E0DBDB&title=hits&edge_flat=false"/></a>
     </div>
-</p>
-
-
+  </p>
+  
+  
     <br/>
-<p>
+  <p>
    <div align="center">
        <b>💻 # Main Skill & Language 💻</b>
        <br/>
@@ -42,9 +43,9 @@
        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
        <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
    </div>
-</p>
+  </p>
     <br/>
-<p>
+  <p>
     <div align="center">
         <b>🚀 # Cloud & Deploy 🚀</b>
         <br/>
@@ -54,8 +55,9 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
     </div>
-</p>
+  </p>
     <br/>
+
 <!--
 **EunnnJinnn/EunnnJinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -42,17 +42,17 @@
     </div>
   </p>
 
-    <p>
-      <div align="center">
+ <p>
+    <div align="center">
         <b>⌛ # Git-Hub Stats ⏳</b>
-        <br/>
-        <br/>
   <!--
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunnnJinnn&layout=compact)
       <br/>
       <br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunnnJinnn&show_icons=true&theme=radical) 
   -->
+
+    </div>
   </p>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">

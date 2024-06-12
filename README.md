@@ -41,9 +41,7 @@
         <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
     </div>
   </p>
-    <br/>
 
-    <br/>
     <p>
       <div align="center">
       <b>⌛ # Git-Hub Stats ⏳</b>
